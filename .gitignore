@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+/PS3Tools.sdf
+/PS3Tools.v11.suo
+/PS3Tools.opensdf
+/ipch
+/Debug
+/CommonLib/Debug
+/PFDReader/Debug
+/SFOReader/Debug

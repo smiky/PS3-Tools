@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommonLib", "CommonLib\CommonLib.vcxproj", "{03F09017-3EA0-4E21-B4D9-3EA0F8AA26D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFOReader", "SFOReader\SFOReader.vcxproj", "{22634716-0712-420C-94C6-689781426B45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PFDReader", "PFDReader\PFDReader.vcxproj", "{BA406AD4-2415-417E-BBA5-4D0227B4C1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F09017-3EA0-4E21-B4D9-3EA0F8AA26D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03F09017-3EA0-4E21-B4D9-3EA0F8AA26D3}.Debug|Win32.Build.0 = Debug|Win32
+		{03F09017-3EA0-4E21-B4D9-3EA0F8AA26D3}.Release|Win32.ActiveCfg = Release|Win32
+		{03F09017-3EA0-4E21-B4D9-3EA0F8AA26D3}.Release|Win32.Build.0 = Release|Win32
+		{22634716-0712-420C-94C6-689781426B45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22634716-0712-420C-94C6-689781426B45}.Debug|Win32.Build.0 = Debug|Win32
+		{22634716-0712-420C-94C6-689781426B45}.Release|Win32.ActiveCfg = Release|Win32
+		{22634716-0712-420C-94C6-689781426B45}.Release|Win32.Build.0 = Release|Win32
+		{BA406AD4-2415-417E-BBA5-4D0227B4C1B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA406AD4-2415-417E-BBA5-4D0227B4C1B7}.Debug|Win32.Build.0 = Debug|Win32
+		{BA406AD4-2415-417E-BBA5-4D0227B4C1B7}.Release|Win32.ActiveCfg = Release|Win32
+		{BA406AD4-2415-417E-BBA5-4D0227B4C1B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
